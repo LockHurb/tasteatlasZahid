@@ -45,7 +45,7 @@ function App() {
         <Grid size={{ xs: 12 }}>
 
           {/* PENDIENTE: Envíe sus datos (apellidos, nombres y paralelo) como props del componente */}
-          <Student apellidos="Díaz Tapia" nombres="Zahid" paralelo="2"></Student>
+          <Student apellidos="Díaz Tapia" nombres="Zahid Alejandro" paralelo="2"></Student>
 
         </Grid>
         
